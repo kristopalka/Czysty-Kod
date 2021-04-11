@@ -4,6 +4,8 @@ package exercises;
  * Jako rozgrzewkę, spróbuj pobawić się tym kodem.
  * Zrozum jego działanie, a następnie zepsuj go w taki sposób, aby był jak najmniej czytelny, ale wciąż działał
  * (testowanie czy kod działa jest również częścią zadania)
+ *
+ * ### Kod zaczerpnięty z książki "Czysty Kod" Robert C. Martin ###
  */
 
 public class PrimeGenerator

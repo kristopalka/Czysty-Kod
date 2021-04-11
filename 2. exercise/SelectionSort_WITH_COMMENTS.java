@@ -10,8 +10,9 @@ import java.util.Scanner;
  * Podpowiedzi:
  * 1. Formatowanie - o powinno pomóc
  * 2. Nazwy zmiennych -
- * 2. Komentarze - czy da się zawrzeć je w kodzie?
- * 3. Funkcje - kod jest nieco za długi 🤔
+ * 3. Komentarze - czy da się zawrzeć je w kodzie?
+ * 4. Funkcje - kod jest nieco za długi 🤔
+ * 5. Komentarze pomocnicze --->>>                                                                                      // tutaj znajdują się komentarze pomocnicze ;)
  */
 
 
