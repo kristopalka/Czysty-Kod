@@ -1,5 +1,6 @@
 # Czysty Kod
 Repozytorium zawiera slajdy z preznetacji, oraz zadania do rozwiązania
+Zapis prezentacji można zobaczyć tu: https://www.youtube.com/watch?v=8PPOx_UDCVw
 
 ## 1. Warmup
 Wybierz jeden z programów: 
