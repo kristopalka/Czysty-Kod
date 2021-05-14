@@ -1,5 +1,6 @@
 # Czysty Kod
 Repozytorium zawiera slajdy z prezentacji, oraz zadania do rozwiązania. Zapis prezentacji można zobaczyć tu: 
+https://youtu.be/8PPOx_UDCVw
 
 [![YouTube](https://img.youtube.com/vi/8PPOx_UDCVw/0.jpg)](https://www.youtube.com/watch?v=8PPOx_UDCVw)
 
